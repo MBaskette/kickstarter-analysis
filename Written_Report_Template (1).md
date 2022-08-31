@@ -8,9 +8,9 @@ The purpose of this project was to uncover a pattern to determine the right doll
 ## Analysis and Challenges
 Our first goal was to determine how many play kickstarters succeeded or failed. We found that more succeeded than failed. Once that was accomplished we further broke that down into the mean `=AVERAGE('Successful US Kickstarters'!D:D)` and median `=MEDIAN('Successful US Kickstarters'!D:D)` of each to see if any obvious patterns arose. They did not. So why did some fall short? By using codes such as`=COUNTIFS(Kickstarter!R:R,"plays",Kickstarter!F:F,"successful",Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999")` we were able to determine success/fail numbers of campaigns by the asked for amount.
 ### Analysis of Outcomes Based on Launch Date
-![](Theater_Outcomes_vs_Launch.png)
+![image](https://user-images.githubusercontent.com/111661058/187737586-d66036df-762e-4fb0-8877-b201ffbe5dc0.png)
 ### Analysis of Outcomes Based on Goals
-![](Outcomes_vs_Goals.png)
+![image](https://user-images.githubusercontent.com/111661058/187737979-9958a925-1e6e-4844-9ca4-73864d4ed551.png)
 ### Challenges and Difficulties Encountered
 The date, while good, was a little too much and just a little short. Having the Unix time stamp was not difficult but added another step that should have been unnecessary. Being able to decipher types of plays may have helped our client dig deeper into what would help her kickstarter even more.
 ## Results
