@@ -20,9 +20,12 @@ The date, while good, was a little too much and just a little short. Having the 
 1) Beginning in April there is a distinct uptick in successful campaigns until the end of summer.
 2) The winter is by far the worst time to create a Kickstater campaign.
 - What can you conclude about the Outcomes based on Goals?
+ 
 Funding goals up to $4999 have the greatest chance for success
 - What are some limitations of this dataset?
+
 Again, being able to break down types of plays would have been most helpful.
 - What are some other possible tables and/or graphs that we could create?
+
 We could further divide our outcomes vs goals to find the success/fail rate for every $200 between $0 and $4999.
 Using that data we could cross reference to their launch dates. 
