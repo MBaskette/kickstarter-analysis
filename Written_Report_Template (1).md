@@ -16,7 +16,8 @@ The date, while good, was a little too much and just a little short. Having the 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--Beginning in April there is a distinct uptick in successful campaigns until the end of summer.
+
+Beginning in April there is a distinct uptick in successful campaigns until the end of summer.
 The winter is by far the worst time to create a Kickstater campaign
 - What can you conclude about the Outcomes based on Goals?
 Funding goals up to $4999 have the greatest chance for success
