@@ -28,4 +28,4 @@ The date, while good, was a little too much and just a little short. Having the 
 - What are some other possible tables and/or graphs that we could create?
 
      We could further divide our outcomes vs goals to find the success/fail rate for every $200 between $0 and $4999.
-     Using that data we could cross reference to their launch dates. 
+     Using that data we could cross reference to their launch dates.
